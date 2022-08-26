@@ -33,6 +33,7 @@ else
 }
 */
 
+/*
 // Задача 3. Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые числа в промежутка (-N;N)
 
 Console.Write("Input integer positive number: ");
@@ -45,3 +46,16 @@ while(current <= number)
     Console.Write(current + " ");
     current++;
 }
+*/
+
+/*
+// Задача 3. Напишите программу, которая на вход принимает трехзначное число и на выходе показывает последнюю цифру этого числа
+
+Console.Write("Input integer three-digit number: ");
+
+int number = Convert.ToInt32(Console.ReadLine());
+
+int ed = number % 10;
+
+Console.WriteLine($"Last digit of {number} is {ed}");
+*/
