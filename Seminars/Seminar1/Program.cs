@@ -13,6 +13,7 @@ int quad = num * num;
 Console.WriteLine($"The square of {num} is {quad}");
 */
 
+/*
 // Задача 2. Напишите программу, которая на вход принимает два чила и проверяет является ли первое число квадратом второго
 
 Console.Write("Input first number: ");
@@ -29,4 +30,18 @@ if(n1 == quad2)
 else
 {
     Console.WriteLine($"{n1} is not quad of {n2}");
+}
+*/
+
+// Задача 3. Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые числа в промежутка (-N;N)
+
+Console.Write("Input integer positive number: ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+int current = number * (-1);
+
+while(current <= number)
+{
+    Console.Write(current + " ");
+    current++;
 }
