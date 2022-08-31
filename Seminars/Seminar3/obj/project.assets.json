@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\artee\\.nuget\\packages\\": {}
+    "C:\\Users\\chern\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artee\\C# Seminars\\CSharp_Seminars\\Seminars\\Seminar3\\Seminar3.csproj",
+      "projectUniqueName": "C:\\Users\\chern\\C# Seminars\\CSharp_Seminars-1\\Seminars\\Seminar3\\Seminar3.csproj",
       "projectName": "Seminar3",
-      "projectPath": "C:\\Users\\artee\\C# Seminars\\CSharp_Seminars\\Seminars\\Seminar3\\Seminar3.csproj",
-      "packagesPath": "C:\\Users\\artee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artee\\C# Seminars\\CSharp_Seminars\\Seminars\\Seminar3\\obj\\",
+      "projectPath": "C:\\Users\\chern\\C# Seminars\\CSharp_Seminars-1\\Seminars\\Seminar3\\Seminar3.csproj",
+      "packagesPath": "C:\\Users\\chern\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chern\\C# Seminars\\CSharp_Seminars-1\\Seminars\\Seminar3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\artee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\chern\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

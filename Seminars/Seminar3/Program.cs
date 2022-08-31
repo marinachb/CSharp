@@ -44,8 +44,8 @@ PointsRange(number);
 */
 
 // Задача 3. Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 2D пространстве.
-
-double FindLenght (double x1, double y1, double x2, double y2);
+/*
+double FindLenght (double x1, double y1, double x2, double y2)
 {
 
 return Math.Sqrt(Math.Pow(x2-x1, 2) + Math.Pow(y2-y1, 2));
@@ -62,3 +62,25 @@ double yb = Convert.ToDouble(Console.ReadLine());
 
 double coordinates = FindLenght(xa, xb, ya, yb);
 Console.WriteLine($"Length is {coordinates}");
+*/
+
+//Задача 4. Напишите программу, которая принимает на вход число (N) и выдаёт на консоль квадраты чисел от 1 до N.
+/*
+void FindSq (int number)
+{
+    int current = 1;
+
+    while(current <= number)
+    {
+        int square = current * current;
+        Console.Write(square + " ");
+        current++;
+    }
+    
+}
+
+Console.Write("Input number: ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+FindSq(a);
+*/
