@@ -1,0 +1,15 @@
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.csproj.AssemblyReference.cache
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.AssemblyInfoInputs.cache
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.AssemblyInfo.cs
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.csproj.CoreCompileInputs.cache
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.exe
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.deps.json
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.runtimeconfig.json
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.dll
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\bin\Debug\net6.0\Seminar8.pdb
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.dll
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\refint\Seminar8.dll
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.pdb
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\Seminar8.genruntimeconfig.cache
+C:\Users\chern\C# Seminars\CSharp_Seminars-1\Seminars\Seminar8\obj\Debug\net6.0\ref\Seminar8.dll
